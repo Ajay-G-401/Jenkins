@@ -11,7 +11,7 @@ namespace ProjectSampleJenkins
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
-             Console.WriteLine("checking build creating error")
+             Console.WriteLine("checking build creating error");
         }
     }
 }
